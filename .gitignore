@@ -1,0 +1,33 @@
+# ===== Keil MDK-ARM 编译产物（不传，体积大头）=====
+MDK-ARM/RmMotor/
+
+# Keil 中间/输出文件
+*.o
+*.d
+*.crf
+*.dep
+*.axf
+*.htm
+*.lnp
+*.lst
+*.sct
+*.iex
+*.map
+*.i
+*.tra
+*.bak
+*.__i
+*.build_log.htm
+
+# Keil 个人界面设置（每人不同，不传）
+*.uvguix.*
+
+# MDK 调试器配置
+MDK-ARM/DebugConfig/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
